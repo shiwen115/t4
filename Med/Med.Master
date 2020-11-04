@@ -10,9 +10,8 @@
     <link href="fontawesome/css/all.css" rel="stylesheet" />
 
     <script src="bootstrap/js/jquery-3.3.1.slim.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
-
-    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script src="bootstrap/js/popper.min.js"></script>
+    <script src="bootstrap/js/bootstrapmin.js"></script>
 
     <link href="css.css" rel="stylesheet" />
 
@@ -30,7 +29,7 @@
 
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                     aria-controls="narbarSupportContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggle-icon"></span>
+                    <span class="navbar-toggler-icon"></span>
                 </button>
 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">

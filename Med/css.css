@@ -1,3 +1,7 @@
 ﻿#footer1 {
     background: #531f00;
 }
+
+.navbar-toggler-icon{
+    background-color: lightgreen;
+}
